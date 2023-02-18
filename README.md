@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Click the live url to view the project
+
+[https://quote-generator-delta-steel.vercel.app/]
+
 ## Available Scripts
 
 In the project directory, you can run:
